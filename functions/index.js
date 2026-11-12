@@ -9,9 +9,9 @@ export async function onRequest(context) {
       <!DOCTYPE html>
       <html>
       <head>
-        <meta property="og:title" content="Yahan Apna Title Likhein" />
+        <meta property="og:title" content="🩷❤️🩵🩷❤️" />
         <meta property="og:description" content="Yahan Apni Description Likhein" />
-        <meta property="og:image" content="https://www.google.com/share.google?q=xC8bhL9JTNKUaBSbr" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/awbhund-art/fafv/refs/heads/main/7981647689944298232.jpg" />
         <meta property="og:type" content="website" />
       </head>
       <body></body>
